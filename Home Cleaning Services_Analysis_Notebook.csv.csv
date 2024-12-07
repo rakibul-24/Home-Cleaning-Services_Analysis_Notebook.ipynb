@@ -1,0 +1,1001 @@
+Date,Product,Region,Customer_Type,Quantity,Price,Discount,Revenue
+2024-03-08,Tennis Rackets,West,Recreational,7,207.38,0.11,1291.98
+2024-02-27,Weights,East,Recreational,2,176.35,0.01,349.17
+2024-03-10,Weights,East,Recreational,4,764.49,0.22,2385.21
+2024-08-03,Tennis Rackets,North,Recreational,10,634.0,0.25,4755.0
+2024-10-28,Tennis Rackets,South,Athlete,10,796.59,0.19,6452.38
+2024-08-04,Tennis Rackets,West,Recreational,12,34.8,0.15,354.96
+2024-05-21,Tennis Rackets,East,Athlete,1,275.19,0.24,209.14
+2024-09-13,Tennis Rackets,North,Recreational,18,355.99,0.21,5062.18
+2024-06-18,Football,West,Recreational,7,983.94,0.12,6061.07
+2024-08-27,Tennis Rackets,South,Recreational,12,946.07,0.1,10217.56
+2024-07-28,Bikes,North,Recreational,19,102.3,0.13,1691.02
+2024-07-13,Bikes,East,Athlete,15,842.43,0.14,10867.35
+2024-02-15,Weights,East,Recreational,19,666.64,0.04,12159.51
+2024-01-15,Weights,North,Recreational,2,768.59,0.01,1521.81
+2024-02-08,Football,West,Athlete,18,874.78,0.22,12281.91
+2024-10-08,Football,North,Recreational,5,676.57,0.1,3044.57
+2024-07-29,Bikes,North,Athlete,11,138.38,0.14,1309.07
+2024-11-19,Tennis Rackets,South,Recreational,15,48.46,0.04,697.82
+2024-12-27,Tennis Rackets,East,Athlete,20,849.85,0.25,12747.75
+2024-07-20,Bikes,East,Athlete,16,618.16,0.1,8901.5
+2024-09-17,Weights,South,Athlete,12,544.59,0.1,5881.57
+2024-06-10,Football,East,Athlete,3,869.55,0.29,1852.14
+2024-03-26,Bikes,North,Recreational,12,908.19,0.19,8827.61
+2024-07-06,Bikes,South,Athlete,1,357.87,0.03,347.13
+2024-01-02,Weights,East,Recreational,19,896.28,0.16,14304.63
+2024-02-20,Tennis Rackets,North,Recreational,10,253.71,0.04,2435.62
+2024-10-07,Tennis Rackets,East,Athlete,7,507.27,0.09,3231.31
+2024-10-22,Football,South,Athlete,8,243.01,0.1,1749.67
+2024-05-31,Weights,South,Athlete,8,311.96,0.27,1821.85
+2024-01-23,Weights,West,Recreational,8,221.89,0.28,1278.09
+2024-08-28,Bikes,North,Recreational,14,896.93,0.22,9794.48
+2024-06-03,Tennis Rackets,West,Recreational,4,586.11,0.08,2156.88
+2024-09-06,Football,West,Recreational,8,334.02,0.23,2057.56
+2024-06-03,Tennis Rackets,South,Recreational,5,338.3,0.05,1606.92
+2024-08-01,Bikes,East,Athlete,18,919.09,0.05,15716.44
+2024-06-22,Football,South,Athlete,17,783.95,0.19,10794.99
+2024-12-22,Football,South,Athlete,20,330.36,0.3,4625.04
+2024-03-12,Football,South,Recreational,6,155.1,0.29,660.73
+2024-10-21,Bikes,East,Recreational,12,388.38,0.16,3914.87
+2024-10-19,Weights,North,Athlete,10,525.04,0.05,4987.88
+2024-12-23,Tennis Rackets,South,Athlete,8,752.91,0.13,5240.25
+2024-03-31,Football,North,Athlete,2,497.21,0.25,745.82
+2024-10-11,Football,West,Recreational,6,699.04,0.24,3187.62
+2024-08-28,Football,East,Recreational,2,614.26,0.2,982.82
+2024-09-23,Bikes,South,Athlete,18,842.29,0.01,15009.61
+2024-08-08,Tennis Rackets,North,Recreational,11,469.96,0.18,4239.04
+2024-02-11,Bikes,West,Recreational,6,721.82,0.04,4157.68
+2024-05-10,Tennis Rackets,West,Recreational,1,68.18,0.13,59.32
+2024-12-06,Weights,South,Athlete,6,765.23,0.0,4591.38
+2024-03-24,Bikes,West,Athlete,6,714.69,0.25,3216.11
+2024-03-08,Tennis Rackets,East,Athlete,3,353.62,0.16,891.12
+2024-05-24,Tennis Rackets,West,Athlete,4,766.39,0.22,2391.14
+2024-09-08,Football,North,Recreational,5,876.93,0.23,3376.18
+2024-04-04,Football,West,Recreational,8,208.46,0.2,1334.14
+2024-01-13,Weights,East,Recreational,16,207.37,0.05,3152.02
+2024-10-22,Weights,East,Recreational,11,877.16,0.18,7911.98
+2024-05-02,Weights,East,Athlete,5,592.92,0.23,2282.74
+2024-09-24,Tennis Rackets,East,Recreational,19,228.83,0.25,3260.83
+2024-07-27,Weights,East,Recreational,19,792.17,0.28,10836.89
+2024-01-31,Tennis Rackets,East,Recreational,18,607.31,0.18,8963.9
+2024-04-24,Bikes,North,Recreational,12,788.18,0.1,8512.34
+2024-04-24,Football,North,Athlete,19,858.78,0.01,16153.65
+2024-11-01,Football,East,Recreational,18,155.93,0.21,2217.32
+2024-02-24,Football,South,Athlete,9,896.64,0.1,7262.78
+2024-12-18,Tennis Rackets,South,Recreational,15,915.23,0.09,12492.89
+2024-12-05,Weights,West,Athlete,16,547.14,0.08,8053.9
+2024-06-05,Weights,North,Athlete,20,524.52,0.07,9756.07
+2024-04-27,Bikes,West,Recreational,16,781.88,0.23,9632.76
+2024-08-13,Tennis Rackets,South,Athlete,2,631.25,0.28,909.0
+2024-07-30,Tennis Rackets,West,Athlete,14,451.33,0.22,4928.52
+2024-12-02,Football,West,Athlete,3,247.81,0.14,639.35
+2024-05-22,Weights,South,Athlete,2,114.9,0.07,213.71
+2024-08-10,Tennis Rackets,West,Athlete,10,146.82,0.13,1277.33
+2024-06-20,Bikes,East,Recreational,15,982.85,0.24,11204.49
+2024-04-09,Weights,West,Recreational,9,764.55,0.19,5573.57
+2024-03-27,Bikes,East,Recreational,19,242.11,0.05,4370.09
+2024-02-18,Football,East,Recreational,1,941.15,0.04,903.5
+2024-05-08,Bikes,West,Recreational,20,269.09,0.25,4036.35
+2024-08-30,Football,East,Athlete,7,394.26,0.28,1987.07
+2024-10-06,Bikes,North,Recreational,3,30.69,0.08,84.7
+2024-10-31,Football,West,Recreational,18,334.43,0.2,4815.79
+2024-02-21,Football,North,Recreational,7,548.28,0.23,2955.23
+2024-09-24,Bikes,East,Recreational,14,145.87,0.11,1817.54
+2024-09-10,Bikes,South,Recreational,4,365.8,0.17,1214.46
+2024-09-26,Bikes,East,Athlete,10,344.45,0.08,3168.94
+2024-03-29,Football,North,Athlete,8,844.51,0.14,5810.23
+2024-05-05,Tennis Rackets,North,Athlete,5,264.9,0.07,1231.78
+2024-11-20,Football,East,Athlete,14,284.25,0.29,2825.44
+2024-04-20,Weights,West,Recreational,15,663.27,0.08,9153.13
+2024-11-16,Tennis Rackets,East,Athlete,9,963.21,0.27,6328.29
+2024-04-02,Tennis Rackets,West,Athlete,8,551.93,0.17,3664.82
+2024-07-20,Football,South,Recreational,6,52.37,0.18,257.66
+2024-12-02,Weights,North,Recreational,18,791.18,0.29,10111.28
+2024-12-19,Football,West,Athlete,8,832.78,0.25,4996.68
+2024-08-30,Bikes,North,Athlete,10,214.32,0.2,1714.56
+2024-09-25,Weights,West,Recreational,1,217.26,0.19,175.98
+2024-05-19,Tennis Rackets,North,Recreational,2,571.39,0.1,1028.5
+2024-02-12,Bikes,North,Recreational,12,259.47,0.29,2210.68
+2024-05-14,Football,South,Athlete,2,675.7,0.2,1081.12
+2024-08-18,Weights,South,Athlete,9,489.19,0.16,3698.28
+2024-03-02,Tennis Rackets,North,Athlete,2,663.04,0.18,1087.39
+2024-09-29,Bikes,East,Athlete,2,65.26,0.01,129.21
+2024-04-05,Tennis Rackets,South,Recreational,5,940.78,0.0,4703.9
+2024-06-05,Tennis Rackets,South,Recreational,18,585.65,0.03,10225.45
+2024-05-12,Bikes,North,Recreational,1,393.15,0.28,283.07
+2024-12-13,Bikes,North,Athlete,1,523.96,0.15,445.37
+2024-02-22,Bikes,North,Recreational,20,450.69,0.0,9013.8
+2024-06-14,Tennis Rackets,North,Recreational,17,56.56,0.06,903.83
+2024-12-11,Bikes,West,Athlete,9,785.36,0.23,5442.54
+2024-06-26,Tennis Rackets,West,Recreational,2,897.49,0.01,1777.03
+2024-08-18,Weights,East,Recreational,14,996.86,0.24,10606.59
+2024-08-10,Tennis Rackets,East,Recreational,1,915.58,0.08,842.33
+2024-10-15,Weights,East,Recreational,10,813.79,0.13,7079.97
+2024-12-29,Football,South,Recreational,4,247.82,0.1,892.15
+2024-09-05,Bikes,West,Recreational,1,30.48,0.09,27.74
+2024-11-23,Bikes,East,Recreational,15,161.5,0.01,2398.28
+2024-02-10,Tennis Rackets,West,Athlete,1,435.24,0.16,365.6
+2024-06-28,Tennis Rackets,East,Athlete,12,473.16,0.13,4939.79
+2024-03-08,Weights,North,Recreational,5,77.96,0.18,319.64
+2024-01-18,Bikes,South,Athlete,6,882.19,0.06,4975.55
+2024-09-29,Weights,East,Recreational,18,249.3,0.26,3320.68
+2024-02-28,Bikes,South,Recreational,4,71.85,0.16,241.42
+2024-11-27,Weights,South,Athlete,4,302.72,0.12,1065.57
+2024-12-25,Bikes,East,Recreational,10,787.27,0.18,6455.61
+2024-06-07,Tennis Rackets,West,Athlete,18,333.62,0.05,5704.9
+2024-08-15,Weights,North,Athlete,16,276.69,0.12,3895.8
+2024-10-17,Bikes,North,Recreational,6,645.02,0.24,2941.29
+2024-04-25,Tennis Rackets,West,Recreational,13,46.5,0.07,562.18
+2024-07-16,Tennis Rackets,East,Recreational,15,201.93,0.06,2847.21
+2024-11-25,Football,West,Recreational,17,662.59,0.09,10250.27
+2024-09-30,Football,South,Athlete,4,913.3,0.13,3178.28
+2024-06-11,Bikes,West,Recreational,13,306.23,0.2,3184.79
+2024-05-27,Tennis Rackets,East,Athlete,2,697.97,0.14,1200.51
+2024-11-11,Tennis Rackets,South,Recreational,15,55.52,0.2,666.24
+2024-11-08,Tennis Rackets,East,Athlete,15,656.6,0.16,8273.16
+2024-11-16,Tennis Rackets,East,Athlete,16,738.71,0.13,10282.84
+2024-11-28,Tennis Rackets,South,Recreational,14,948.16,0.06,12477.79
+2024-11-23,Football,North,Athlete,10,526.46,0.22,4106.39
+2024-09-26,Weights,West,Athlete,6,838.3,0.17,4174.73
+2024-10-29,Bikes,North,Athlete,18,905.68,0.12,14345.97
+2024-07-12,Tennis Rackets,West,Athlete,16,914.42,0.02,14338.11
+2024-07-29,Bikes,North,Recreational,18,921.91,0.2,13275.5
+2024-08-17,Bikes,South,Athlete,5,188.15,0.2,752.6
+2024-12-21,Tennis Rackets,West,Athlete,6,391.04,0.28,1689.29
+2024-11-30,Weights,West,Recreational,16,620.92,0.12,8742.55
+2024-12-05,Weights,North,Recreational,10,868.23,0.1,7814.07
+2024-06-04,Bikes,South,Athlete,2,590.33,0.11,1050.79
+2024-06-05,Tennis Rackets,South,Athlete,18,601.45,0.07,10068.27
+2024-01-08,Weights,South,Recreational,10,353.92,0.18,2902.14
+2024-12-17,Bikes,South,Recreational,14,493.12,0.17,5730.05
+2024-08-22,Football,North,Athlete,17,280.61,0.04,4579.56
+2024-10-10,Tennis Rackets,South,Athlete,13,761.49,0.24,7523.52
+2024-12-07,Bikes,North,Recreational,4,110.47,0.16,371.18
+2024-02-16,Weights,East,Athlete,4,645.06,0.25,1935.18
+2024-08-01,Tennis Rackets,East,Athlete,17,689.19,0.01,11599.07
+2024-09-06,Football,North,Recreational,5,460.63,0.2,1842.52
+2024-09-20,Football,West,Athlete,12,838.59,0.19,8151.09
+2024-08-02,Tennis Rackets,North,Athlete,10,191.9,0.18,1573.58
+2024-08-21,Football,South,Athlete,2,820.11,0.06,1541.81
+2024-02-06,Weights,West,Athlete,10,344.33,0.27,2513.61
+2024-04-10,Weights,South,Athlete,1,605.64,0.23,466.34
+2024-05-26,Tennis Rackets,East,Athlete,9,858.62,0.3,5409.31
+2024-12-04,Tennis Rackets,West,Athlete,1,549.66,0.08,505.69
+2024-08-05,Bikes,South,Recreational,9,936.33,0.11,7500.0
+2024-09-04,Football,East,Athlete,14,613.33,0.25,6439.96
+2024-04-21,Football,West,Recreational,16,345.95,0.21,4372.81
+2024-12-23,Bikes,East,Recreational,6,470.76,0.17,2344.38
+2024-04-03,Tennis Rackets,North,Recreational,4,949.59,0.24,2886.75
+2024-01-27,Tennis Rackets,East,Athlete,3,506.43,0.16,1276.2
+2024-07-31,Football,South,Recreational,16,457.62,0.1,6589.73
+2024-08-29,Football,North,Athlete,6,567.21,0.08,3131.0
+2024-08-26,Weights,South,Athlete,9,25.26,0.13,197.79
+2024-07-14,Bikes,South,Recreational,6,134.25,0.05,765.22
+2024-09-17,Tennis Rackets,South,Recreational,4,350.41,0.02,1373.61
+2024-01-15,Tennis Rackets,South,Athlete,16,182.55,0.23,2249.02
+2024-07-03,Bikes,East,Athlete,15,203.72,0.22,2383.52
+2024-01-17,Tennis Rackets,South,Athlete,20,230.73,0.28,3322.51
+2024-04-30,Bikes,South,Recreational,5,642.56,0.16,2698.75
+2024-10-26,Football,North,Recreational,11,453.88,0.29,3544.8
+2024-03-01,Tennis Rackets,South,Athlete,12,579.8,0.19,5635.66
+2024-04-26,Weights,North,Recreational,3,88.13,0.2,211.51
+2024-09-05,Bikes,North,Athlete,3,260.35,0.21,617.03
+2024-03-31,Bikes,West,Recreational,11,964.53,0.17,8806.16
+2024-12-19,Football,North,Athlete,5,640.76,0.04,3075.65
+2024-06-02,Weights,North,Athlete,16,164.95,0.25,1979.4
+2024-06-08,Weights,East,Recreational,12,27.99,0.22,261.99
+2024-07-29,Weights,West,Recreational,10,620.45,0.2,4963.6
+2024-03-04,Football,West,Recreational,8,202.35,0.14,1392.17
+2024-05-11,Weights,North,Recreational,4,78.11,0.21,246.83
+2024-08-21,Bikes,East,Recreational,13,976.38,0.04,12185.22
+2024-05-17,Football,North,Recreational,19,45.79,0.03,843.91
+2024-04-29,Football,South,Athlete,15,905.73,0.15,11548.06
+2024-08-31,Bikes,South,Recreational,7,425.96,0.05,2832.63
+2024-09-02,Bikes,North,Recreational,13,534.79,0.24,5283.73
+2024-12-04,Tennis Rackets,West,Athlete,5,102.01,0.07,474.35
+2024-01-25,Tennis Rackets,North,Recreational,7,209.86,0.19,1189.91
+2024-09-14,Football,South,Athlete,2,715.54,0.06,1345.22
+2024-10-01,Bikes,South,Athlete,5,240.19,0.22,936.74
+2024-10-16,Tennis Rackets,North,Recreational,16,69.87,0.05,1062.02
+2024-10-13,Tennis Rackets,North,Athlete,14,872.97,0.01,12099.36
+2024-08-04,Bikes,North,Athlete,14,406.37,0.03,5518.5
+2024-03-10,Tennis Rackets,West,Athlete,15,788.47,0.07,10999.16
+2024-09-17,Bikes,North,Recreational,11,309.51,0.08,3132.24
+2024-12-18,Football,East,Athlete,6,532.76,0.05,3036.73
+2024-03-16,Tennis Rackets,North,Athlete,3,185.22,0.09,505.65
+2024-07-13,Weights,West,Athlete,17,781.23,0.15,11288.77
+2024-12-21,Football,North,Athlete,7,492.77,0.28,2483.56
+2024-05-14,Tennis Rackets,South,Recreational,6,262.22,0.11,1400.25
+2024-10-19,Football,East,Athlete,2,532.01,0.14,915.06
+2024-08-06,Weights,South,Recreational,1,48.33,0.27,35.28
+2024-03-29,Football,East,Athlete,10,778.05,0.1,7002.45
+2024-10-31,Weights,North,Athlete,2,457.62,0.13,796.26
+2024-04-19,Weights,East,Recreational,16,875.96,0.05,13314.59
+2024-04-13,Tennis Rackets,North,Athlete,20,517.28,0.2,8276.48
+2024-01-25,Tennis Rackets,West,Recreational,1,597.93,0.1,538.14
+2024-08-26,Weights,West,Athlete,13,282.19,0.11,3264.94
+2024-09-13,Bikes,West,Athlete,17,308.66,0.13,4565.08
+2024-07-22,Tennis Rackets,West,Athlete,13,906.19,0.22,9188.77
+2024-02-06,Weights,North,Recreational,5,631.63,0.06,2968.66
+2024-03-19,Weights,South,Athlete,20,510.76,0.06,9602.29
+2024-12-14,Weights,North,Recreational,6,216.53,0.29,922.42
+2024-03-07,Football,West,Recreational,18,805.52,0.02,14209.37
+2024-12-15,Weights,West,Athlete,1,550.28,0.26,407.21
+2024-07-23,Weights,East,Athlete,15,705.93,0.19,8577.05
+2024-03-04,Tennis Rackets,West,Recreational,19,768.32,0.17,12116.41
+2024-12-04,Weights,North,Recreational,4,467.21,0.26,1382.94
+2024-07-01,Football,East,Athlete,8,343.47,0.27,2005.86
+2024-09-24,Football,South,Recreational,6,206.99,0.11,1105.33
+2024-02-26,Football,North,Athlete,10,516.06,0.17,4283.3
+2024-12-14,Weights,South,Athlete,19,257.46,0.19,3962.31
+2024-12-07,Tennis Rackets,East,Recreational,9,893.89,0.2,6436.01
+2024-09-26,Weights,South,Athlete,4,766.21,0.15,2605.11
+2024-10-26,Bikes,West,Athlete,10,579.63,0.04,5564.45
+2024-11-30,Weights,North,Recreational,20,267.2,0.02,5237.12
+2024-10-19,Tennis Rackets,West,Recreational,6,165.0,0.22,772.2
+2024-04-15,Bikes,North,Recreational,13,615.03,0.24,6076.5
+2024-02-07,Bikes,South,Athlete,10,655.91,0.1,5903.19
+2024-07-26,Bikes,South,Recreational,8,228.89,0.1,1648.01
+2024-02-24,Tennis Rackets,North,Athlete,19,713.86,0.17,11257.57
+2024-06-28,Tennis Rackets,North,Athlete,16,726.25,0.24,8831.2
+2024-10-16,Football,North,Recreational,20,362.93,0.19,5879.47
+2024-03-21,Bikes,East,Athlete,10,179.82,0.15,1528.47
+2024-12-02,Tennis Rackets,West,Recreational,10,831.75,0.06,7818.45
+2024-05-22,Bikes,East,Recreational,20,650.27,0.04,12485.18
+2024-07-10,Tennis Rackets,North,Athlete,7,858.55,0.05,5709.36
+2024-04-19,Weights,West,Recreational,20,262.86,0.21,4153.19
+2024-01-19,Bikes,South,Recreational,11,614.25,0.14,5810.8
+2024-09-12,Bikes,North,Athlete,7,537.02,0.27,2744.17
+2024-02-14,Football,West,Athlete,6,340.83,0.29,1451.94
+2024-07-03,Weights,West,Recreational,4,500.76,0.0,2003.04
+2024-11-01,Tennis Rackets,North,Recreational,9,938.74,0.23,6505.47
+2024-12-30,Football,West,Athlete,17,984.58,0.17,13892.42
+2024-02-15,Weights,North,Recreational,17,222.82,0.12,3333.39
+2024-02-21,Tennis Rackets,East,Recreational,6,189.28,0.18,931.26
+2024-12-21,Bikes,West,Athlete,2,846.49,0.08,1557.54
+2024-08-15,Tennis Rackets,North,Athlete,11,974.5,0.29,7610.84
+2024-11-12,Tennis Rackets,West,Athlete,19,326.39,0.19,5023.14
+2024-03-25,Tennis Rackets,West,Recreational,18,530.51,0.1,8594.26
+2024-01-13,Football,South,Athlete,5,785.55,0.05,3731.36
+2024-08-11,Weights,North,Recreational,7,403.17,0.02,2765.75
+2024-07-24,Weights,East,Recreational,9,304.84,0.18,2249.72
+2024-11-13,Bikes,South,Athlete,3,360.91,0.04,1039.42
+2024-04-13,Bikes,East,Recreational,16,395.52,0.22,4936.09
+2024-05-15,Football,North,Recreational,12,19.22,0.05,219.11
+2024-04-24,Bikes,North,Recreational,13,860.9,0.06,10520.2
+2024-03-14,Tennis Rackets,North,Recreational,12,219.23,0.1,2367.68
+2024-06-01,Bikes,East,Recreational,2,561.3,0.01,1111.37
+2024-07-13,Football,East,Recreational,6,184.71,0.17,919.86
+2024-04-24,Weights,North,Athlete,18,742.68,0.29,9491.45
+2024-03-27,Bikes,South,Athlete,11,791.35,0.22,6789.78
+2024-07-26,Tennis Rackets,West,Recreational,13,138.93,0.29,1282.32
+2024-07-16,Bikes,South,Athlete,17,540.07,0.06,8630.32
+2024-06-25,Bikes,South,Recreational,10,99.89,0.15,849.06
+2024-10-24,Weights,North,Athlete,12,864.55,0.19,8403.43
+2024-07-26,Weights,North,Recreational,13,377.08,0.26,3627.51
+2024-04-10,Bikes,East,Athlete,5,132.2,0.13,575.07
+2024-03-13,Weights,North,Athlete,20,825.01,0.19,13365.16
+2024-11-25,Bikes,North,Recreational,2,933.1,0.18,1530.28
+2024-06-07,Bikes,East,Athlete,9,186.85,0.2,1345.32
+2024-09-09,Weights,North,Recreational,12,20.57,0.21,195.0
+2024-02-15,Tennis Rackets,East,Recreational,15,385.08,0.05,5487.39
+2024-04-22,Weights,East,Recreational,17,681.7,0.02,11357.12
+2024-01-04,Bikes,South,Recreational,7,698.01,0.11,4348.6
+2024-01-28,Tennis Rackets,East,Recreational,16,586.71,0.09,8542.5
+2024-04-05,Tennis Rackets,East,Athlete,19,740.18,0.06,13219.61
+2024-06-01,Tennis Rackets,West,Athlete,8,313.07,0.09,2279.15
+2024-08-20,Football,East,Recreational,10,420.96,0.08,3872.83
+2024-02-03,Football,West,Recreational,13,365.72,0.29,3375.6
+2024-11-03,Football,North,Recreational,2,528.03,0.05,1003.26
+2024-04-20,Weights,East,Athlete,14,608.7,0.26,6306.13
+2024-05-12,Tennis Rackets,North,Athlete,2,866.35,0.15,1472.8
+2024-10-17,Weights,West,Athlete,9,318.58,0.1,2580.5
+2024-07-11,Weights,North,Athlete,6,784.22,0.09,4281.84
+2024-05-15,Bikes,North,Recreational,20,316.7,0.12,5573.92
+2024-04-11,Bikes,North,Athlete,17,761.9,0.06,12175.16
+2024-03-06,Bikes,West,Athlete,8,701.73,0.02,5501.56
+2024-03-13,Football,South,Athlete,7,910.55,0.14,5481.51
+2024-03-24,Bikes,West,Athlete,6,154.16,0.12,813.96
+2024-05-11,Weights,South,Recreational,17,282.82,0.15,4086.75
+2024-08-18,Bikes,East,Athlete,14,422.37,0.14,5085.33
+2024-11-18,Football,North,Athlete,8,841.57,0.17,5588.02
+2024-05-21,Tennis Rackets,South,Recreational,6,999.44,0.09,5456.94
+2024-01-17,Weights,North,Athlete,19,842.65,0.18,13128.49
+2024-05-06,Football,South,Athlete,17,122.2,0.27,1516.5
+2024-06-04,Football,North,Athlete,5,804.09,0.13,3497.79
+2024-09-08,Tennis Rackets,West,Recreational,20,711.94,0.26,10536.71
+2024-08-28,Bikes,North,Recreational,15,708.15,0.14,9135.14
+2024-09-11,Weights,West,Recreational,20,479.45,0.17,7958.87
+2024-03-13,Tennis Rackets,West,Recreational,8,93.3,0.01,738.94
+2024-11-03,Football,East,Recreational,3,878.46,0.09,2398.2
+2024-01-20,Football,North,Recreational,17,12.74,0.0,216.58
+2024-12-02,Football,West,Recreational,4,682.09,0.18,2237.26
+2024-03-02,Tennis Rackets,East,Athlete,16,379.67,0.26,4495.29
+2024-04-19,Bikes,East,Athlete,11,283.19,0.12,2741.28
+2024-05-04,Bikes,South,Athlete,20,404.23,0.27,5901.76
+2024-01-17,Bikes,South,Athlete,8,49.89,0.09,363.2
+2024-09-13,Bikes,South,Athlete,11,589.39,0.02,6353.62
+2024-10-08,Football,South,Athlete,15,721.12,0.05,10275.96
+2024-05-31,Football,East,Recreational,1,677.47,0.12,596.17
+2024-03-01,Weights,North,Athlete,8,731.84,0.27,4273.95
+2024-09-09,Bikes,West,Athlete,20,978.88,0.24,14878.98
+2024-06-04,Weights,North,Recreational,20,100.92,0.03,1957.85
+2024-06-25,Football,East,Athlete,14,647.24,0.19,7339.7
+2024-07-08,Tennis Rackets,North,Recreational,2,900.0,0.27,1314.0
+2024-12-06,Bikes,East,Recreational,10,481.0,0.12,4232.8
+2024-04-30,Tennis Rackets,East,Athlete,7,475.74,0.21,2630.84
+2024-09-11,Football,East,Athlete,11,443.14,0.08,4484.58
+2024-10-10,Tennis Rackets,South,Athlete,7,273.04,0.23,1471.69
+2024-08-25,Bikes,North,Recreational,2,572.25,0.29,812.59
+2024-08-12,Tennis Rackets,North,Recreational,13,809.63,0.08,9683.17
+2024-03-18,Tennis Rackets,East,Athlete,14,761.25,0.02,10444.35
+2024-08-04,Bikes,East,Athlete,12,644.25,0.21,6107.49
+2024-02-13,Football,West,Athlete,5,906.52,0.21,3580.75
+2024-11-20,Football,West,Recreational,7,600.78,0.19,3406.42
+2024-04-16,Weights,East,Athlete,6,216.41,0.14,1116.68
+2024-02-29,Tennis Rackets,West,Recreational,13,234.82,0.24,2320.02
+2024-06-26,Bikes,South,Recreational,20,974.23,0.12,17146.45
+2024-09-13,Weights,North,Athlete,3,963.87,0.27,2110.88
+2024-03-15,Bikes,East,Recreational,2,406.01,0.22,633.38
+2024-09-23,Weights,East,Recreational,16,86.77,0.15,1180.07
+2024-03-10,Tennis Rackets,West,Recreational,15,830.39,0.16,10462.91
+2024-03-07,Football,South,Athlete,18,738.84,0.17,11038.27
+2024-07-10,Tennis Rackets,South,Athlete,4,659.65,0.18,2163.65
+2024-12-27,Bikes,West,Athlete,20,944.33,0.21,14920.41
+2024-05-06,Football,East,Athlete,14,73.58,0.13,896.2
+2024-10-24,Tennis Rackets,South,Recreational,16,961.83,0.01,15235.39
+2024-10-10,Tennis Rackets,East,Athlete,15,910.82,0.17,11339.71
+2024-09-02,Football,West,Athlete,14,533.8,0.11,6651.15
+2024-12-03,Tennis Rackets,North,Athlete,15,587.14,0.14,7574.11
+2024-12-15,Football,North,Recreational,4,514.2,0.1,1851.12
+2024-06-03,Bikes,West,Recreational,8,409.79,0.16,2753.79
+2024-08-30,Tennis Rackets,West,Athlete,16,757.42,0.15,10300.91
+2024-03-06,Tennis Rackets,South,Recreational,9,860.16,0.3,5419.01
+2024-04-04,Football,West,Athlete,16,603.07,0.1,8684.21
+2024-05-11,Football,South,Athlete,10,952.58,0.3,6668.06
+2024-04-14,Weights,North,Recreational,13,405.43,0.12,4638.12
+2024-10-01,Bikes,West,Athlete,8,739.27,0.26,4376.48
+2024-10-28,Tennis Rackets,East,Recreational,13,899.13,0.28,8415.86
+2024-09-07,Weights,West,Athlete,2,358.24,0.23,551.69
+2024-02-22,Football,South,Recreational,6,471.67,0.04,2716.82
+2024-02-19,Bikes,South,Athlete,16,103.87,0.29,1179.96
+2024-01-24,Weights,North,Athlete,3,683.96,0.22,1600.47
+2024-04-05,Tennis Rackets,West,Recreational,12,208.14,0.13,2172.98
+2024-07-22,Tennis Rackets,South,Recreational,3,572.14,0.22,1338.81
+2024-03-23,Tennis Rackets,West,Recreational,1,393.24,0.26,291.0
+2024-10-29,Bikes,East,Recreational,4,99.82,0.16,335.4
+2024-02-26,Weights,North,Athlete,17,397.09,0.21,5332.92
+2024-06-20,Weights,East,Athlete,9,321.12,0.11,2572.17
+2024-12-21,Bikes,South,Recreational,15,825.78,0.15,10528.69
+2024-02-04,Bikes,West,Athlete,14,432.96,0.03,5879.6
+2024-09-11,Football,South,Athlete,18,987.98,0.06,16716.62
+2024-11-09,Football,South,Recreational,6,182.88,0.01,1086.31
+2024-12-18,Weights,South,Athlete,17,563.25,0.26,7085.68
+2024-08-07,Bikes,West,Athlete,5,182.46,0.15,775.46
+2024-11-08,Football,West,Athlete,15,953.13,0.21,11294.59
+2024-10-27,Tennis Rackets,West,Recreational,17,657.63,0.21,8831.97
+2024-11-12,Tennis Rackets,South,Recreational,15,228.41,0.27,2501.09
+2024-03-01,Football,South,Athlete,16,386.89,0.14,5323.61
+2024-04-26,Football,East,Recreational,15,399.87,0.17,4978.38
+2024-11-06,Bikes,East,Athlete,20,425.87,0.06,8006.36
+2024-12-28,Bikes,East,Recreational,13,595.62,0.05,7355.91
+2024-06-19,Tennis Rackets,North,Recreational,15,651.23,0.29,6935.6
+2024-06-03,Bikes,East,Athlete,19,421.58,0.12,7048.82
+2024-05-07,Bikes,West,Recreational,9,39.51,0.01,352.03
+2024-10-01,Tennis Rackets,West,Recreational,16,362.2,0.14,4983.87
+2024-01-27,Bikes,West,Athlete,11,276.57,0.27,2220.86
+2024-03-24,Weights,West,Athlete,15,936.88,0.25,10539.9
+2024-03-17,Tennis Rackets,East,Recreational,16,503.88,0.18,6610.91
+2024-09-28,Bikes,West,Recreational,14,333.05,0.17,3870.04
+2024-05-11,Football,West,Recreational,6,934.93,0.0,5609.58
+2024-11-25,Tennis Rackets,East,Recreational,6,582.06,0.2,2793.89
+2024-06-30,Weights,South,Athlete,17,459.38,0.24,5935.19
+2024-12-06,Tennis Rackets,South,Recreational,17,733.03,0.0,12461.51
+2024-02-09,Football,West,Athlete,5,104.25,0.21,411.79
+2024-11-01,Bikes,East,Recreational,18,903.23,0.12,14307.16
+2024-03-05,Football,North,Recreational,15,712.33,0.09,9723.3
+2024-04-26,Football,East,Athlete,11,314.01,0.29,2452.42
+2024-10-10,Football,South,Athlete,4,686.47,0.27,2004.49
+2024-07-08,Weights,South,Recreational,7,182.4,0.26,944.83
+2024-09-23,Tennis Rackets,East,Recreational,14,194.5,0.07,2532.39
+2024-11-05,Bikes,East,Athlete,12,158.58,0.04,1826.84
+2024-06-07,Tennis Rackets,North,Athlete,18,865.65,0.05,14802.61
+2024-04-08,Football,East,Athlete,12,21.31,0.29,181.56
+2024-02-28,Football,North,Athlete,16,103.51,0.18,1358.05
+2024-05-05,Weights,South,Athlete,15,309.7,0.01,4599.04
+2024-12-09,Football,North,Recreational,7,351.13,0.16,2064.64
+2024-09-09,Bikes,North,Recreational,6,470.89,0.29,2005.99
+2024-09-18,Bikes,East,Recreational,16,66.47,0.14,914.63
+2024-12-27,Weights,East,Athlete,10,22.34,0.08,205.53
+2024-12-20,Tennis Rackets,West,Recreational,9,823.76,0.03,7191.42
+2024-01-29,Tennis Rackets,North,Athlete,11,444.88,0.05,4649.0
+2024-01-29,Football,West,Recreational,20,817.63,0.01,16189.07
+2024-12-09,Bikes,East,Recreational,2,107.45,0.16,180.52
+2024-06-23,Football,South,Athlete,15,185.32,0.18,2279.44
+2024-01-02,Tennis Rackets,North,Recreational,8,951.64,0.06,7156.33
+2024-03-22,Tennis Rackets,South,Recreational,20,692.76,0.23,10668.5
+2024-10-02,Football,West,Athlete,17,713.91,0.25,9102.35
+2024-12-09,Tennis Rackets,North,Athlete,1,669.97,0.11,596.27
+2024-04-22,Bikes,West,Athlete,6,638.65,0.24,2912.24
+2024-01-10,Bikes,West,Athlete,16,218.08,0.13,3035.67
+2024-09-23,Tennis Rackets,East,Athlete,3,119.79,0.28,258.75
+2024-09-11,Football,North,Athlete,12,86.64,0.14,894.12
+2024-03-20,Tennis Rackets,West,Athlete,10,234.06,0.13,2036.32
+2024-04-10,Football,North,Recreational,18,122.19,0.17,1825.52
+2024-03-10,Weights,East,Recreational,2,875.76,0.08,1611.4
+2024-01-26,Weights,South,Athlete,19,245.78,0.02,4576.42
+2024-06-10,Tennis Rackets,South,Recreational,2,404.49,0.17,671.45
+2024-05-05,Bikes,West,Recreational,2,570.42,0.16,958.31
+2024-10-21,Bikes,North,Recreational,11,90.18,0.1,892.78
+2024-03-07,Tennis Rackets,South,Recreational,11,448.66,0.17,4096.27
+2024-05-13,Bikes,North,Athlete,4,123.24,0.16,414.09
+2024-11-17,Football,West,Athlete,8,437.04,0.19,2832.02
+2024-04-13,Bikes,East,Athlete,14,458.01,0.09,5835.05
+2024-11-29,Weights,East,Recreational,1,922.11,0.09,839.12
+2024-08-21,Tennis Rackets,West,Recreational,1,869.28,0.01,860.59
+2024-04-04,Weights,South,Athlete,5,260.75,0.14,1121.22
+2024-05-31,Weights,West,Recreational,3,632.61,0.18,1556.22
+2024-10-31,Bikes,West,Athlete,9,319.99,0.19,2332.73
+2024-10-31,Football,West,Recreational,19,899.58,0.28,12306.25
+2024-10-13,Weights,North,Recreational,13,144.69,0.08,1730.49
+2024-04-26,Tennis Rackets,North,Recreational,1,793.52,0.05,753.84
+2024-05-01,Weights,West,Athlete,13,297.44,0.22,3016.04
+2024-07-05,Bikes,West,Athlete,14,257.27,0.05,3421.69
+2024-02-17,Bikes,South,Athlete,14,285.95,0.02,3923.23
+2024-01-05,Football,West,Recreational,15,66.82,0.24,761.75
+2024-06-02,Tennis Rackets,East,Athlete,6,988.73,0.24,4508.61
+2024-03-06,Weights,East,Athlete,8,709.9,0.24,4316.19
+2024-05-01,Weights,West,Athlete,17,980.06,0.28,11995.93
+2024-10-08,Bikes,East,Athlete,2,324.41,0.12,570.96
+2024-02-08,Bikes,West,Recreational,15,596.43,0.21,7067.7
+2024-03-04,Tennis Rackets,East,Recreational,10,877.72,0.11,7811.71
+2024-02-28,Bikes,South,Athlete,3,244.11,0.26,541.92
+2024-04-15,Tennis Rackets,South,Recreational,12,423.56,0.23,3913.69
+2024-11-04,Weights,North,Athlete,10,603.91,0.12,5314.41
+2024-10-12,Tennis Rackets,West,Recreational,15,497.8,0.19,6048.27
+2024-09-22,Tennis Rackets,West,Recreational,11,164.98,0.24,1379.23
+2024-11-04,Football,West,Athlete,14,699.99,0.24,7447.89
+2024-06-01,Football,East,Athlete,4,166.13,0.18,544.91
+2024-04-08,Weights,West,Recreational,4,151.35,0.29,429.83
+2024-02-24,Tennis Rackets,West,Recreational,7,857.14,0.03,5819.98
+2024-08-05,Tennis Rackets,West,Recreational,4,404.16,0.24,1228.65
+2024-05-02,Bikes,West,Athlete,18,329.19,0.13,5155.12
+2024-12-22,Tennis Rackets,South,Athlete,9,556.83,0.03,4861.13
+2024-01-30,Tennis Rackets,West,Athlete,18,928.94,0.22,13042.32
+2024-10-16,Bikes,South,Athlete,7,761.99,0.09,4853.88
+2024-04-10,Bikes,South,Athlete,7,279.07,0.13,1699.54
+2024-05-23,Weights,South,Athlete,15,344.76,0.04,4964.54
+2024-01-03,Bikes,South,Athlete,3,919.24,0.11,2454.37
+2024-05-24,Bikes,South,Athlete,15,172.22,0.04,2479.97
+2024-08-18,Weights,East,Athlete,19,57.25,0.11,968.1
+2024-04-23,Bikes,West,Recreational,12,927.21,0.06,10458.93
+2024-02-06,Tennis Rackets,West,Recreational,12,939.16,0.25,8452.44
+2024-05-31,Bikes,South,Athlete,7,722.92,0.15,4301.37
+2024-03-29,Football,West,Athlete,9,859.67,0.15,6576.48
+2024-06-29,Bikes,South,Athlete,4,499.15,0.0,1996.6
+2024-03-27,Football,South,Recreational,15,555.48,0.16,6999.05
+2024-04-02,Tennis Rackets,East,Athlete,6,16.07,0.06,90.63
+2024-06-16,Bikes,West,Athlete,19,713.77,0.1,12205.47
+2024-05-23,Weights,South,Recreational,17,471.6,0.22,6253.42
+2024-08-27,Bikes,North,Recreational,18,531.64,0.06,8995.35
+2024-07-21,Football,South,Recreational,11,311.33,0.06,3219.15
+2024-05-17,Football,West,Athlete,18,704.35,0.04,12171.17
+2024-04-12,Football,North,Athlete,14,901.46,0.15,10727.37
+2024-06-17,Bikes,South,Athlete,8,961.82,0.22,6001.76
+2024-04-28,Bikes,North,Athlete,7,841.49,0.2,4712.34
+2024-05-26,Weights,South,Athlete,20,660.55,0.17,10965.13
+2024-04-26,Football,East,Athlete,5,780.59,0.29,2771.09
+2024-05-01,Weights,West,Recreational,11,354.32,0.09,3546.74
+2024-10-08,Tennis Rackets,East,Recreational,17,314.03,0.16,4484.35
+2024-06-28,Bikes,North,Athlete,12,658.63,0.06,7429.35
+2024-04-08,Tennis Rackets,East,Athlete,7,976.26,0.17,5672.07
+2024-07-29,Tennis Rackets,South,Athlete,14,881.76,0.28,8888.14
+2024-09-07,Bikes,West,Athlete,19,891.89,0.15,14404.02
+2024-08-04,Bikes,North,Athlete,10,37.86,0.19,306.67
+2024-03-06,Tennis Rackets,West,Athlete,2,894.74,0.14,1538.95
+2024-07-28,Weights,South,Recreational,14,859.54,0.1,10830.2
+2024-07-08,Football,East,Recreational,16,316.41,0.18,4151.3
+2024-07-19,Football,East,Recreational,7,363.8,0.14,2190.08
+2024-03-04,Tennis Rackets,South,Recreational,5,640.55,0.1,2882.48
+2024-03-30,Bikes,East,Athlete,8,221.27,0.09,1610.85
+2024-11-03,Bikes,South,Recreational,8,174.34,0.27,1018.15
+2024-04-16,Weights,West,Athlete,4,410.89,0.24,1249.11
+2024-08-19,Weights,West,Athlete,6,623.52,0.1,3367.01
+2024-07-08,Bikes,West,Athlete,7,235.28,0.21,1301.1
+2024-11-26,Weights,East,Athlete,17,647.94,0.01,10904.83
+2024-03-08,Weights,West,Recreational,5,930.73,0.13,4048.68
+2024-06-08,Weights,East,Recreational,12,974.14,0.08,10754.51
+2024-09-01,Football,West,Recreational,16,894.4,0.26,10589.7
+2024-10-12,Tennis Rackets,South,Recreational,3,290.3,0.03,844.77
+2024-04-02,Football,East,Athlete,4,138.08,0.08,508.13
+2024-04-16,Football,West,Recreational,3,802.91,0.24,1830.63
+2024-08-23,Bikes,West,Athlete,18,544.11,0.14,8422.82
+2024-11-02,Tennis Rackets,North,Athlete,5,974.17,0.1,4383.76
+2024-02-07,Bikes,South,Athlete,13,283.48,0.24,2800.78
+2024-08-05,Weights,North,Recreational,4,205.92,0.02,807.21
+2024-09-02,Tennis Rackets,East,Athlete,15,588.24,0.06,8294.18
+2024-07-05,Tennis Rackets,West,Recreational,10,471.48,0.19,3818.99
+2024-03-11,Weights,West,Recreational,2,50.81,0.14,87.39
+2024-04-13,Football,North,Athlete,14,968.19,0.09,12334.74
+2024-06-02,Bikes,West,Recreational,11,602.77,0.25,4972.85
+2024-01-20,Football,West,Recreational,17,955.15,0.27,11853.41
+2024-03-15,Weights,North,Recreational,17,364.71,0.26,4588.05
+2024-09-26,Football,South,Athlete,2,593.37,0.29,842.59
+2024-09-12,Bikes,South,Athlete,11,256.95,0.28,2035.04
+2024-10-25,Tennis Rackets,West,Recreational,12,584.82,0.2,5614.27
+2024-07-30,Football,South,Recreational,9,793.93,0.1,6430.83
+2024-10-03,Football,South,Athlete,19,69.59,0.04,1269.32
+2024-03-11,Tennis Rackets,East,Recreational,18,969.69,0.09,15883.52
+2024-01-07,Football,East,Athlete,12,207.08,0.13,2161.92
+2024-08-02,Tennis Rackets,East,Athlete,1,987.21,0.1,888.49
+2024-06-05,Weights,West,Athlete,10,660.21,0.23,5083.62
+2024-01-23,Tennis Rackets,East,Recreational,5,898.74,0.26,3325.34
+2024-10-30,Weights,North,Athlete,13,590.88,0.2,6145.15
+2024-02-05,Bikes,South,Recreational,18,985.72,0.03,17210.67
+2024-08-09,Bikes,South,Recreational,2,909.01,0.01,1799.84
+2024-02-05,Football,West,Recreational,15,708.13,0.15,9028.66
+2024-01-16,Bikes,North,Recreational,18,603.57,0.25,8148.2
+2024-10-28,Bikes,North,Recreational,20,857.85,0.26,12696.18
+2024-02-23,Tennis Rackets,South,Athlete,10,880.92,0.1,7928.28
+2024-06-20,Tennis Rackets,North,Athlete,9,471.47,0.2,3394.58
+2024-08-05,Weights,East,Athlete,4,949.75,0.23,2925.23
+2024-03-20,Tennis Rackets,East,Recreational,20,981.2,0.25,14718.0
+2024-08-08,Football,West,Recreational,8,677.63,0.21,4282.62
+2024-06-17,Tennis Rackets,North,Athlete,18,179.32,0.26,2388.54
+2024-12-06,Tennis Rackets,North,Recreational,14,95.5,0.08,1230.04
+2024-09-23,Football,North,Recreational,12,514.38,0.23,4752.87
+2024-04-19,Tennis Rackets,North,Recreational,7,434.15,0.14,2613.58
+2024-06-23,Weights,West,Athlete,3,910.57,0.19,2212.69
+2024-03-20,Football,South,Athlete,16,327.71,0.27,3827.65
+2024-09-26,Weights,South,Athlete,20,156.49,0.3,2190.86
+2024-01-04,Football,North,Recreational,5,419.96,0.14,1805.83
+2024-04-27,Tennis Rackets,West,Athlete,10,776.76,0.13,6757.81
+2024-03-06,Tennis Rackets,East,Athlete,8,91.71,0.15,623.63
+2024-07-14,Tennis Rackets,North,Recreational,1,963.42,0.26,712.93
+2024-12-13,Football,West,Athlete,4,412.22,0.03,1599.41
+2024-01-20,Football,East,Athlete,11,40.21,0.01,437.89
+2024-09-20,Football,West,Athlete,12,854.16,0.1,9224.93
+2024-12-18,Bikes,East,Recreational,19,760.5,0.25,10837.12
+2024-04-23,Football,North,Athlete,6,435.4,0.09,2377.28
+2024-05-19,Bikes,West,Athlete,8,79.07,0.12,556.65
+2024-06-09,Bikes,North,Athlete,15,632.37,0.22,7398.73
+2024-04-28,Weights,North,Recreational,6,725.73,0.2,3483.5
+2024-08-26,Tennis Rackets,South,Recreational,16,843.17,0.08,12411.46
+2024-03-18,Football,East,Recreational,19,512.17,0.17,8076.92
+2024-09-07,Bikes,South,Recreational,19,684.66,0.02,12748.37
+2024-02-18,Weights,South,Athlete,15,799.24,0.06,11269.28
+2024-10-17,Tennis Rackets,North,Recreational,5,11.36,0.2,45.44
+2024-03-29,Weights,North,Athlete,19,619.72,0.03,11421.44
+2024-04-02,Football,West,Athlete,18,454.63,0.08,7528.67
+2024-12-22,Bikes,North,Athlete,18,974.11,0.13,15254.56
+2024-07-25,Tennis Rackets,West,Athlete,6,649.43,0.25,2922.44
+2024-09-30,Tennis Rackets,North,Athlete,15,482.33,0.01,7162.6
+2024-03-13,Football,North,Recreational,8,449.04,0.14,3089.4
+2024-06-07,Football,East,Recreational,17,116.81,0.29,1409.9
+2024-04-30,Football,West,Athlete,14,475.78,0.23,5128.91
+2024-06-15,Tennis Rackets,West,Recreational,11,785.26,0.24,6564.77
+2024-06-06,Tennis Rackets,West,Recreational,11,372.52,0.07,3810.88
+2024-05-11,Football,North,Recreational,5,733.37,0.19,2970.15
+2024-08-21,Bikes,East,Recreational,10,66.32,0.11,590.25
+2024-05-20,Bikes,East,Recreational,6,221.39,0.07,1235.36
+2024-05-15,Football,North,Recreational,20,115.75,0.17,1921.45
+2024-11-13,Weights,West,Recreational,15,929.12,0.29,9895.13
+2024-06-04,Football,South,Recreational,20,949.07,0.26,14046.24
+2024-12-08,Tennis Rackets,East,Athlete,8,374.24,0.17,2484.95
+2024-01-03,Bikes,South,Recreational,13,607.45,0.16,6633.35
+2024-07-10,Football,East,Athlete,11,587.02,0.17,5359.49
+2024-08-02,Bikes,East,Recreational,8,771.84,0.01,6112.97
+2024-08-16,Weights,West,Athlete,3,886.97,0.17,2208.56
+2024-05-04,Football,South,Recreational,8,237.58,0.23,1463.49
+2024-10-09,Tennis Rackets,North,Athlete,16,650.77,0.08,9579.33
+2024-07-06,Tennis Rackets,South,Recreational,12,36.86,0.13,384.82
+2024-06-17,Tennis Rackets,South,Recreational,17,723.15,0.02,12047.68
+2024-07-30,Football,East,Recreational,11,784.61,0.09,7853.95
+2024-05-07,Football,West,Athlete,4,903.28,0.14,3107.28
+2024-03-24,Football,East,Recreational,12,264.19,0.18,2599.63
+2024-10-11,Football,West,Athlete,13,98.59,0.05,1217.59
+2024-11-05,Football,South,Athlete,8,701.44,0.09,5106.48
+2024-11-08,Weights,South,Recreational,17,199.5,0.12,2984.52
+2024-05-02,Weights,East,Athlete,7,452.34,0.1,2849.74
+2024-12-20,Weights,South,Recreational,9,623.55,0.21,4433.44
+2024-05-30,Bikes,South,Recreational,3,647.69,0.06,1826.49
+2024-05-29,Tennis Rackets,West,Athlete,11,543.91,0.24,4547.09
+2024-10-21,Tennis Rackets,West,Athlete,15,359.2,0.3,3771.6
+2024-04-06,Weights,East,Recreational,4,162.09,0.18,531.66
+2024-05-17,Weights,West,Athlete,9,95.17,0.2,685.22
+2024-09-09,Bikes,South,Recreational,16,930.52,0.14,12803.96
+2024-06-17,Football,South,Recreational,20,65.78,0.29,934.08
+2024-08-30,Weights,East,Recreational,4,254.13,0.0,1016.52
+2024-02-01,Bikes,South,Athlete,15,521.64,0.25,5868.45
+2024-06-12,Football,East,Recreational,5,57.7,0.15,245.22
+2024-07-24,Weights,West,Athlete,11,275.07,0.05,2874.48
+2024-09-11,Tennis Rackets,South,Recreational,7,800.84,0.18,4596.82
+2024-10-26,Football,South,Athlete,6,421.1,0.24,1920.22
+2024-07-11,Weights,West,Athlete,10,595.31,0.14,5119.67
+2024-07-03,Football,North,Recreational,7,507.56,0.16,2984.45
+2024-02-05,Weights,East,Athlete,7,240.19,0.02,1647.7
+2024-09-06,Tennis Rackets,West,Athlete,9,222.97,0.03,1946.53
+2024-08-22,Tennis Rackets,North,Athlete,8,507.2,0.08,3732.99
+2024-05-26,Football,East,Recreational,2,183.46,0.29,260.51
+2024-05-28,Tennis Rackets,East,Athlete,13,51.06,0.19,537.66
+2024-09-17,Bikes,West,Recreational,9,823.15,0.16,6223.01
+2024-04-28,Tennis Rackets,East,Athlete,19,237.75,0.19,3658.97
+2024-01-22,Tennis Rackets,South,Athlete,10,168.07,0.16,1411.79
+2024-08-23,Tennis Rackets,South,Recreational,11,527.02,0.02,5681.28
+2024-11-30,Bikes,North,Recreational,20,20.78,0.29,295.08
+2024-05-20,Tennis Rackets,West,Athlete,16,234.75,0.18,3079.92
+2024-03-03,Weights,East,Athlete,3,92.15,0.08,254.33
+2024-10-07,Bikes,North,Recreational,2,75.81,0.21,119.78
+2024-08-30,Weights,East,Athlete,20,308.89,0.2,4942.24
+2024-06-26,Weights,North,Athlete,15,984.97,0.2,11819.64
+2024-02-19,Tennis Rackets,East,Athlete,18,293.42,0.07,4911.85
+2024-03-28,Tennis Rackets,East,Recreational,16,680.71,0.1,9802.22
+2024-06-02,Football,North,Recreational,10,161.12,0.05,1530.64
+2024-04-21,Football,West,Recreational,5,499.62,0.27,1823.61
+2024-10-08,Weights,East,Recreational,15,584.48,0.18,7189.1
+2024-09-22,Weights,East,Recreational,14,102.56,0.06,1349.69
+2024-05-01,Weights,West,Recreational,13,852.5,0.03,10750.02
+2024-06-16,Bikes,East,Athlete,12,821.55,0.05,9365.67
+2024-11-30,Tennis Rackets,South,Athlete,12,536.23,0.08,5919.98
+2024-05-11,Football,West,Athlete,14,889.62,0.09,11333.76
+2024-08-22,Weights,East,Recreational,13,232.83,0.27,2209.56
+2024-07-22,Bikes,East,Recreational,3,943.88,0.12,2491.84
+2024-12-01,Bikes,West,Athlete,18,475.45,0.06,8044.61
+2024-12-24,Bikes,West,Athlete,17,817.83,0.18,11400.55
+2024-04-17,Tennis Rackets,North,Athlete,13,973.02,0.26,9360.45
+2024-10-11,Bikes,East,Recreational,14,658.54,0.26,6822.47
+2024-02-07,Tennis Rackets,North,Athlete,5,578.1,0.25,2167.88
+2024-07-17,Tennis Rackets,West,Athlete,3,456.87,0.26,1014.25
+2024-01-28,Weights,South,Recreational,1,444.15,0.1,399.74
+2024-01-27,Bikes,North,Recreational,12,716.79,0.03,8343.44
+2024-02-10,Weights,West,Recreational,16,913.79,0.28,10526.86
+2024-07-15,Weights,West,Athlete,17,533.1,0.24,6887.65
+2024-05-13,Tennis Rackets,North,Recreational,12,63.31,0.12,668.55
+2024-09-25,Tennis Rackets,North,Recreational,12,656.19,0.29,5590.74
+2024-03-28,Football,East,Athlete,7,83.06,0.18,476.76
+2024-09-18,Tennis Rackets,North,Athlete,9,839.82,0.28,5442.03
+2024-10-25,Football,South,Athlete,19,346.54,0.08,6057.52
+2024-12-27,Weights,East,Athlete,17,675.07,0.1,10328.57
+2024-03-16,Tennis Rackets,North,Athlete,3,356.32,0.16,897.93
+2024-09-15,Weights,West,Recreational,4,550.05,0.16,1848.17
+2024-11-02,Weights,West,Athlete,4,988.05,0.1,3556.98
+2024-10-28,Bikes,North,Recreational,17,682.13,0.12,10204.66
+2024-12-03,Bikes,West,Athlete,11,756.24,0.05,7902.71
+2024-03-25,Weights,West,Athlete,11,880.0,0.23,7453.6
+2024-01-14,Weights,North,Athlete,12,839.84,0.28,7256.22
+2024-01-19,Bikes,East,Athlete,4,227.72,0.14,783.36
+2024-03-04,Football,West,Athlete,9,811.55,0.23,5624.04
+2024-06-23,Weights,West,Recreational,16,729.71,0.28,8406.26
+2024-05-21,Tennis Rackets,North,Athlete,9,747.88,0.15,5721.28
+2024-12-01,Football,East,Recreational,1,881.38,0.09,802.06
+2024-06-05,Tennis Rackets,East,Athlete,16,84.8,0.22,1058.3
+2024-08-27,Football,North,Athlete,8,996.04,0.18,6534.02
+2024-11-05,Weights,West,Recreational,5,658.02,0.21,2599.18
+2024-11-04,Football,South,Athlete,11,689.34,0.26,5611.23
+2024-09-04,Weights,West,Athlete,4,590.7,0.15,2008.38
+2024-06-16,Weights,East,Athlete,4,79.07,0.23,243.54
+2024-09-20,Weights,West,Recreational,16,65.34,0.01,1034.99
+2024-04-22,Bikes,North,Recreational,14,528.95,0.27,5405.87
+2024-05-16,Tennis Rackets,West,Athlete,14,203.87,0.18,2340.43
+2024-09-25,Football,East,Recreational,3,659.43,0.08,1820.03
+2024-12-08,Tennis Rackets,West,Athlete,17,354.32,0.13,5240.39
+2024-08-07,Tennis Rackets,West,Athlete,5,464.7,0.24,1765.86
+2024-01-18,Bikes,West,Recreational,15,943.68,0.1,12739.68
+2024-01-26,Weights,West,Athlete,16,79.69,0.09,1160.29
+2024-02-12,Weights,East,Athlete,17,938.35,0.05,15154.35
+2024-02-05,Weights,South,Recreational,18,838.41,0.02,14789.55
+2024-04-18,Weights,North,Athlete,6,557.19,0.17,2774.81
+2024-01-26,Weights,North,Recreational,8,473.91,0.02,3715.45
+2024-08-21,Football,West,Athlete,1,336.86,0.25,252.64
+2024-07-19,Bikes,West,Athlete,7,183.69,0.0,1285.83
+2024-07-18,Tennis Rackets,East,Recreational,5,726.94,0.03,3525.66
+2024-01-20,Tennis Rackets,East,Athlete,10,829.57,0.3,5806.99
+2024-04-08,Tennis Rackets,West,Recreational,6,803.63,0.09,4387.82
+2024-12-08,Football,North,Athlete,12,117.22,0.15,1195.64
+2024-06-27,Weights,West,Recreational,13,912.79,0.14,10204.99
+2024-02-10,Football,South,Athlete,7,867.73,0.02,5952.63
+2024-02-07,Tennis Rackets,South,Athlete,13,684.04,0.11,7914.34
+2024-03-09,Football,North,Athlete,5,384.11,0.18,1574.85
+2024-06-05,Football,East,Athlete,1,701.63,0.22,547.27
+2024-02-03,Weights,West,Athlete,4,329.03,0.09,1197.67
+2024-06-16,Weights,West,Recreational,8,635.68,0.19,4119.21
+2024-03-23,Football,West,Recreational,5,614.96,0.05,2921.06
+2024-03-03,Weights,South,Athlete,19,287.72,0.21,4318.68
+2024-08-11,Weights,East,Athlete,19,641.67,0.22,9509.55
+2024-12-03,Tennis Rackets,East,Recreational,9,234.02,0.21,1663.88
+2024-05-26,Weights,South,Athlete,8,484.08,0.1,3485.38
+2024-09-25,Weights,North,Recreational,9,680.35,0.21,4837.29
+2024-08-23,Bikes,North,Athlete,16,51.18,0.04,786.12
+2024-06-13,Tennis Rackets,South,Athlete,18,604.89,0.24,8274.9
+2024-09-24,Bikes,East,Recreational,7,527.92,0.06,3473.71
+2024-03-08,Weights,South,Athlete,15,769.57,0.06,10850.94
+2024-02-23,Tennis Rackets,South,Athlete,10,903.67,0.12,7952.3
+2024-07-01,Tennis Rackets,South,Athlete,3,508.15,0.01,1509.21
+2024-08-02,Football,West,Athlete,13,810.34,0.07,9797.01
+2024-11-10,Weights,West,Athlete,13,156.76,0.06,1915.61
+2024-01-02,Weights,South,Recreational,18,543.09,0.17,8113.76
+2024-07-27,Weights,North,Recreational,9,717.0,0.16,5420.52
+2024-01-20,Football,West,Recreational,5,660.79,0.0,3303.95
+2024-09-17,Tennis Rackets,North,Recreational,19,460.45,0.19,7086.33
+2024-04-15,Tennis Rackets,North,Athlete,1,907.59,0.0,907.59
+2024-01-07,Bikes,South,Athlete,7,995.21,0.18,5712.51
+2024-10-31,Football,North,Athlete,7,980.42,0.15,5833.5
+2024-04-17,Weights,North,Athlete,11,101.96,0.22,874.82
+2024-02-18,Weights,West,Recreational,5,949.59,0.1,4273.16
+2024-03-26,Football,North,Athlete,12,27.64,0.17,275.29
+2024-11-12,Football,East,Athlete,2,592.84,0.18,972.26
+2024-05-20,Tennis Rackets,West,Recreational,1,668.37,0.28,481.23
+2024-07-10,Weights,West,Recreational,1,760.62,0.17,631.31
+2024-12-19,Bikes,East,Athlete,5,366.71,0.24,1393.5
+2024-09-29,Weights,East,Recreational,7,799.28,0.18,4587.87
+2024-03-15,Bikes,West,Athlete,3,209.07,0.1,564.49
+2024-08-11,Tennis Rackets,North,Recreational,20,93.07,0.08,1712.49
+2024-10-29,Football,South,Recreational,13,874.54,0.22,8867.84
+2024-08-28,Tennis Rackets,North,Athlete,3,522.48,0.26,1159.91
+2024-08-26,Weights,West,Recreational,19,100.54,0.21,1509.11
+2024-10-17,Tennis Rackets,South,Athlete,10,134.29,0.0,1342.9
+2024-12-12,Bikes,North,Athlete,7,990.32,0.09,6308.34
+2024-05-04,Tennis Rackets,South,Athlete,10,607.58,0.05,5772.01
+2024-07-05,Tennis Rackets,East,Recreational,17,568.31,0.28,6956.11
+2024-04-20,Weights,North,Athlete,20,759.55,0.17,12608.53
+2024-08-25,Weights,West,Athlete,14,176.18,0.09,2244.53
+2024-11-02,Bikes,East,Recreational,15,979.46,0.16,12341.2
+2024-08-09,Football,North,Athlete,19,680.48,0.04,12411.96
+2024-04-04,Football,West,Athlete,9,959.59,0.25,6477.23
+2024-01-01,Weights,East,Athlete,13,103.3,0.06,1262.33
+2024-02-24,Football,West,Athlete,19,635.26,0.01,11949.24
+2024-04-29,Bikes,West,Recreational,5,385.87,0.29,1369.84
+2024-08-02,Tennis Rackets,North,Recreational,12,269.1,0.2,2583.36
+2024-11-13,Tennis Rackets,North,Athlete,2,444.33,0.24,675.38
+2024-04-09,Bikes,East,Athlete,12,370.45,0.19,3600.77
+2024-08-20,Weights,West,Athlete,4,30.41,0.06,114.34
+2024-10-07,Tennis Rackets,West,Recreational,12,592.4,0.08,6540.1
+2024-02-16,Football,North,Recreational,13,196.87,0.03,2482.53
+2024-02-03,Weights,East,Recreational,16,153.16,0.1,2205.5
+2024-02-16,Football,West,Recreational,13,775.54,0.2,8065.62
+2024-01-26,Tennis Rackets,North,Athlete,10,365.3,0.04,3506.88
+2024-12-23,Bikes,North,Athlete,1,147.86,0.24,112.37
+2024-09-30,Tennis Rackets,North,Athlete,8,66.32,0.15,450.98
+2024-06-04,Tennis Rackets,East,Recreational,17,284.62,0.11,4306.3
+2024-01-08,Weights,East,Athlete,8,758.53,0.27,4429.82
+2024-07-22,Weights,East,Recreational,2,54.08,0.12,95.18
+2024-12-20,Bikes,East,Recreational,8,443.02,0.19,2870.77
+2024-07-03,Tennis Rackets,East,Athlete,13,962.74,0.12,11013.75
+2024-08-28,Football,East,Recreational,18,652.32,0.05,11154.67
+2024-06-16,Weights,North,Athlete,12,555.94,0.23,5136.89
+2024-01-09,Tennis Rackets,North,Recreational,9,179.04,0.21,1272.97
+2024-04-15,Weights,South,Athlete,20,505.72,0.12,8900.67
+2024-11-25,Football,West,Athlete,15,565.34,0.29,6020.87
+2024-03-30,Tennis Rackets,East,Athlete,1,42.47,0.17,35.25
+2024-11-20,Football,East,Recreational,18,845.12,0.01,15060.04
+2024-01-08,Tennis Rackets,North,Athlete,5,635.96,0.26,2353.05
+2024-08-04,Weights,East,Recreational,14,402.92,0.2,4512.7
+2024-06-23,Weights,West,Recreational,13,174.36,0.05,2153.35
+2024-01-02,Weights,West,Athlete,4,956.87,0.12,3368.18
+2024-12-10,Weights,East,Recreational,6,805.98,0.2,3868.7
+2024-12-28,Tennis Rackets,South,Recreational,4,454.81,0.19,1473.58
+2024-09-20,Bikes,West,Recreational,12,265.72,0.19,2582.8
+2024-08-21,Football,South,Recreational,19,758.41,0.3,10086.85
+2024-03-25,Football,West,Recreational,6,509.29,0.29,2169.58
+2024-10-21,Bikes,South,Athlete,10,53.4,0.16,448.56
+2024-12-20,Football,North,Athlete,1,741.58,0.04,711.92
+2024-10-10,Weights,South,Recreational,8,749.36,0.01,5934.93
+2024-05-04,Football,West,Recreational,9,20.24,0.13,158.48
+2024-08-19,Bikes,East,Recreational,2,476.01,0.22,742.58
+2024-12-30,Tennis Rackets,West,Recreational,7,350.19,0.26,1813.98
+2024-12-02,Football,North,Athlete,9,802.36,0.04,6932.39
+2024-10-24,Football,East,Athlete,5,516.16,0.03,2503.38
+2024-12-25,Football,South,Recreational,3,17.83,0.04,51.35
+2024-11-02,Weights,North,Athlete,11,243.31,0.21,2114.36
+2024-09-20,Football,East,Athlete,8,587.18,0.13,4086.77
+2024-01-16,Weights,East,Recreational,16,390.56,0.21,4936.68
+2024-09-21,Weights,East,Recreational,17,552.34,0.19,7605.72
+2024-09-01,Tennis Rackets,West,Athlete,4,53.21,0.19,172.4
+2024-07-10,Bikes,South,Athlete,19,495.89,0.26,6972.21
+2024-01-19,Tennis Rackets,West,Athlete,8,785.49,0.09,5718.37
+2024-12-30,Weights,North,Athlete,20,255.85,0.2,4093.6
+2024-03-04,Football,West,Recreational,18,515.88,0.22,7242.96
+2024-09-15,Tennis Rackets,North,Athlete,4,15.84,0.12,55.76
+2024-08-20,Bikes,East,Athlete,12,142.59,0.23,1317.53
+2024-11-03,Football,North,Athlete,7,491.04,0.12,3024.81
+2024-12-19,Weights,East,Athlete,10,959.79,0.29,6814.51
+2024-02-28,Football,South,Recreational,13,616.86,0.05,7618.22
+2024-11-14,Bikes,East,Recreational,12,878.67,0.07,9805.96
+2024-11-14,Weights,West,Athlete,18,739.71,0.29,9453.49
+2024-02-24,Bikes,East,Athlete,14,957.94,0.26,9924.26
+2024-05-01,Weights,West,Recreational,17,998.07,0.07,15779.49
+2024-01-28,Weights,South,Athlete,2,650.35,0.21,1027.55
+2024-09-28,Weights,South,Athlete,10,582.3,0.11,5182.47
+2024-03-29,Weights,West,Recreational,7,987.01,0.0,6909.07
+2024-08-18,Weights,South,Athlete,18,832.68,0.09,13639.3
+2024-01-08,Bikes,South,Athlete,17,405.05,0.25,5164.39
+2024-04-07,Weights,East,Recreational,4,431.85,0.02,1692.85
+2024-07-06,Bikes,North,Athlete,5,384.79,0.1,1731.56
+2024-09-01,Tennis Rackets,West,Recreational,7,25.17,0.28,126.86
+2024-06-08,Tennis Rackets,North,Recreational,8,357.75,0.16,2404.08
+2024-04-19,Tennis Rackets,West,Recreational,16,897.03,0.18,11769.03
+2024-09-02,Weights,North,Recreational,4,331.44,0.05,1259.47
+2024-08-16,Weights,North,Athlete,12,135.5,0.01,1609.74
+2024-01-14,Weights,East,Athlete,12,175.24,0.14,1808.48
+2024-08-27,Bikes,North,Athlete,17,63.1,0.06,1008.34
+2024-07-06,Bikes,West,Athlete,19,417.38,0.02,7771.62
+2024-08-11,Weights,North,Athlete,16,496.39,0.04,7624.55
+2024-09-25,Weights,North,Athlete,1,254.59,0.25,190.94
+2024-12-10,Weights,East,Recreational,5,43.48,0.27,158.7
+2024-07-25,Tennis Rackets,West,Athlete,18,33.33,0.16,503.95
+2024-05-15,Bikes,North,Athlete,20,92.77,0.02,1818.29
+2024-01-17,Weights,South,Athlete,10,17.25,0.2,138.0
+2024-01-08,Bikes,West,Recreational,12,997.21,0.12,10530.54
+2024-04-18,Weights,West,Recreational,10,170.13,0.01,1684.29
+2024-08-08,Football,South,Athlete,14,852.92,0.2,9552.7
+2024-11-23,Football,East,Athlete,1,441.4,0.04,423.74
+2024-04-29,Bikes,East,Athlete,8,638.12,0.16,4288.17
+2024-01-11,Tennis Rackets,South,Athlete,12,42.88,0.17,427.08
+2024-05-10,Football,East,Recreational,15,118.86,0.02,1747.24
+2024-02-11,Bikes,South,Athlete,7,186.3,0.02,1278.02
+2024-09-18,Weights,West,Recreational,12,237.02,0.24,2161.62
+2024-02-12,Football,West,Recreational,15,605.8,0.1,8178.3
+2024-11-26,Bikes,East,Recreational,2,556.97,0.06,1047.1
+2024-10-03,Football,South,Recreational,6,685.68,0.21,3250.12
+2024-12-21,Weights,East,Athlete,19,832.23,0.17,13124.27
+2024-03-02,Weights,West,Athlete,2,835.85,0.11,1487.81
+2024-07-31,Bikes,North,Recreational,5,78.05,0.06,366.84
+2024-05-02,Football,North,Recreational,6,42.08,0.15,214.61
+2024-09-20,Football,West,Recreational,20,154.55,0.07,2874.63
+2024-07-03,Tennis Rackets,South,Athlete,19,344.86,0.29,4652.16
+2024-07-15,Football,North,Athlete,13,862.57,0.17,9307.13
+2024-07-14,Tennis Rackets,North,Athlete,20,114.14,0.01,2259.97
+2024-05-27,Football,West,Recreational,19,501.38,0.05,9049.91
+2024-05-06,Football,North,Recreational,2,218.49,0.06,410.76
+2024-11-09,Tennis Rackets,North,Recreational,11,943.44,0.13,9028.72
+2024-09-24,Bikes,East,Recreational,10,44.28,0.19,358.67
+2024-06-01,Bikes,West,Recreational,10,677.85,0.17,5626.16
+2024-06-05,Weights,East,Athlete,9,945.64,0.09,7744.79
+2024-07-10,Bikes,North,Recreational,19,824.23,0.25,11745.28
+2024-01-25,Football,North,Recreational,14,104.58,0.14,1259.14
+2024-11-22,Bikes,North,Recreational,9,89.57,0.04,773.88
+2024-03-19,Tennis Rackets,South,Athlete,3,910.4,0.3,1911.84
+2024-07-11,Weights,North,Athlete,14,695.49,0.01,9639.49
+2024-04-12,Bikes,South,Recreational,2,698.72,0.08,1285.64
+2024-11-07,Football,South,Athlete,5,784.76,0.01,3884.56
+2024-07-26,Bikes,South,Athlete,7,606.73,0.1,3822.4
+2024-09-25,Bikes,East,Athlete,13,943.93,0.24,9326.03
+2024-08-29,Tennis Rackets,North,Recreational,7,495.93,0.15,2950.78
+2024-12-19,Bikes,North,Recreational,10,546.97,0.24,4156.97
+2024-01-20,Bikes,North,Recreational,5,226.82,0.07,1054.71
+2024-01-01,Football,East,Recreational,7,368.19,0.11,2293.82
+2024-10-01,Football,South,Recreational,5,400.27,0.12,1761.19
+2024-08-23,Weights,North,Athlete,10,737.39,0.18,6046.6
+2024-07-21,Tennis Rackets,West,Recreational,2,182.31,0.15,309.93
+2024-11-17,Weights,North,Athlete,4,291.26,0.12,1025.24
+2024-09-22,Football,South,Recreational,10,725.82,0.15,6169.47
+2024-05-03,Tennis Rackets,South,Recreational,12,561.27,0.24,5118.78
+2024-11-01,Weights,North,Athlete,14,250.54,0.26,2595.59
+2024-06-28,Tennis Rackets,South,Recreational,19,835.99,0.26,11754.02
+2024-10-12,Tennis Rackets,East,Recreational,3,363.94,0.09,993.56
+2024-08-01,Bikes,South,Recreational,6,569.69,0.21,2700.33
+2024-08-13,Bikes,North,Recreational,16,470.47,0.25,5645.64
+2024-03-26,Weights,West,Recreational,1,328.21,0.27,239.59
+2024-04-10,Football,South,Recreational,19,587.17,0.1,10040.61
+2024-03-04,Bikes,East,Recreational,14,173.88,0.04,2336.95
+2024-12-12,Football,West,Athlete,8,705.54,0.03,5474.99
+2024-07-11,Tennis Rackets,West,Athlete,6,602.92,0.11,3219.59
+2024-11-15,Weights,East,Recreational,15,601.17,0.12,7935.44
+2024-07-19,Weights,North,Recreational,7,475.9,0.24,2531.79
+2024-10-05,Weights,East,Recreational,7,292.09,0.1,1840.17
+2024-03-01,Football,South,Recreational,18,788.04,0.29,10071.15
+2024-04-02,Weights,West,Athlete,17,158.24,0.06,2528.68
+2024-04-25,Football,West,Athlete,13,612.35,0.26,5890.81
+2024-04-03,Football,North,Athlete,9,725.22,0.19,5286.85
+2024-01-02,Tennis Rackets,East,Athlete,5,765.85,0.13,3331.45
+2024-11-10,Tennis Rackets,North,Athlete,14,969.53,0.08,12487.55
+2024-12-15,Tennis Rackets,West,Athlete,1,464.52,0.18,380.91
+2024-12-26,Tennis Rackets,East,Recreational,6,646.6,0.13,3375.25
+2024-10-24,Tennis Rackets,East,Athlete,17,245.74,0.04,4010.48
+2024-12-29,Bikes,West,Recreational,7,238.45,0.3,1168.4
+2024-05-17,Weights,North,Recreational,6,95.07,0.08,524.79
+2024-08-19,Tennis Rackets,South,Recreational,3,189.48,0.08,522.96
+2024-04-13,Weights,West,Athlete,19,868.6,0.29,11717.41
+2024-04-18,Weights,South,Athlete,16,835.37,0.24,10158.1
+2024-06-27,Tennis Rackets,North,Athlete,5,882.29,0.06,4146.76
+2024-02-26,Weights,North,Recreational,19,807.85,0.01,15195.66
+2024-11-29,Weights,West,Recreational,8,597.86,0.28,3443.67
+2024-12-25,Bikes,South,Athlete,4,345.32,0.24,1049.77
+2024-07-21,Football,South,Athlete,8,236.98,0.14,1630.42
+2024-06-01,Tennis Rackets,South,Recreational,16,584.48,0.05,8884.1
+2024-09-14,Weights,South,Athlete,2,76.13,0.12,133.99
+2024-11-08,Football,North,Recreational,19,89.91,0.08,1571.63
+2024-07-29,Football,South,Athlete,3,249.26,0.26,553.36
+2024-06-13,Bikes,South,Athlete,10,268.93,0.25,2016.98
+2024-07-04,Tennis Rackets,North,Athlete,8,921.88,0.21,5826.28
+2024-04-19,Weights,West,Athlete,8,704.68,0.17,4679.08
+2024-04-11,Bikes,North,Athlete,9,478.77,0.11,3834.95
+2024-06-05,Tennis Rackets,East,Recreational,1,455.03,0.01,450.48
+2024-05-20,Tennis Rackets,East,Recreational,16,567.97,0.3,6361.26
+2024-10-20,Football,North,Recreational,19,424.46,0.1,7258.27
+2024-07-16,Bikes,South,Recreational,20,417.77,0.04,8021.18
+2024-03-25,Tennis Rackets,West,Recreational,20,965.44,0.18,15833.22
+2024-11-12,Football,West,Athlete,8,890.57,0.08,6554.6
+2024-08-18,Tennis Rackets,North,Athlete,8,992.46,0.04,7622.09
+2024-10-13,Weights,North,Athlete,16,272.44,0.26,3225.69
+2024-08-15,Tennis Rackets,East,Athlete,2,83.38,0.2,133.41
+2024-07-11,Tennis Rackets,East,Recreational,9,185.38,0.0,1668.42
+2024-04-24,Football,South,Recreational,14,91.45,0.28,921.82
+2024-01-20,Bikes,North,Recreational,17,50.21,0.02,836.5
+2024-05-01,Football,South,Athlete,14,30.04,0.2,336.45
+2024-04-14,Football,North,Recreational,2,280.02,0.28,403.23
+2024-04-17,Weights,North,Athlete,1,687.37,0.15,584.26
+2024-06-04,Weights,West,Recreational,1,288.78,0.04,277.23
+2024-10-26,Tennis Rackets,South,Athlete,2,713.38,0.12,1255.55
+2024-05-19,Weights,West,Recreational,20,100.62,0.21,1589.8
+2024-09-23,Football,East,Recreational,9,297.43,0.13,2328.88
+2024-03-09,Football,West,Athlete,19,968.04,0.1,16553.48
+2024-04-12,Bikes,West,Athlete,15,358.29,0.28,3869.53
+2024-08-18,Football,South,Athlete,17,878.73,0.06,14042.11
+2024-07-13,Bikes,South,Recreational,6,898.63,0.09,4906.52
+2024-03-26,Weights,West,Recreational,16,382.33,0.23,4710.31
+2024-11-30,Bikes,North,Athlete,9,527.26,0.27,3464.1
+2024-07-07,Tennis Rackets,West,Athlete,13,874.33,0.24,8638.38
+2024-12-06,Bikes,East,Recreational,2,545.73,0.29,774.94
+2024-06-08,Football,North,Recreational,4,663.72,0.16,2230.1
+2024-07-26,Football,North,Athlete,16,599.3,0.05,9109.36
+2024-03-07,Tennis Rackets,West,Athlete,18,690.13,0.19,10062.1
+2024-07-30,Football,South,Recreational,19,161.23,0.05,2910.2
+2024-12-31,Bikes,East,Recreational,12,390.01,0.3,3276.08
+2024-09-22,Weights,South,Recreational,15,389.94,0.11,5205.7
+2024-12-06,Tennis Rackets,South,Athlete,1,898.65,0.29,638.04
+2024-01-03,Football,East,Athlete,13,525.27,0.08,6282.23
+2024-02-13,Weights,North,Recreational,7,33.27,0.0,232.89
+2024-02-03,Tennis Rackets,East,Athlete,20,31.77,0.12,559.15
+2024-02-13,Weights,East,Recreational,3,413.24,0.18,1016.57
+2024-03-29,Football,South,Athlete,12,897.52,0.04,10339.43
+2024-12-20,Bikes,South,Recreational,16,989.23,0.25,11870.76
+2024-04-24,Bikes,South,Athlete,16,526.52,0.21,6655.21
+2024-11-06,Football,West,Athlete,10,179.12,0.09,1629.99
+2024-05-06,Football,East,Recreational,20,18.86,0.28,271.58
+2024-05-08,Weights,West,Athlete,18,44.85,0.14,694.28
+2024-08-13,Football,South,Recreational,17,37.59,0.24,485.66
+2024-09-18,Football,West,Athlete,9,489.34,0.16,3699.41
+2024-04-08,Bikes,South,Athlete,1,311.42,0.14,267.82
+2024-07-28,Tennis Rackets,East,Athlete,6,56.66,0.23,261.77
+2024-05-23,Bikes,North,Recreational,6,955.5,0.19,4643.73
+2024-02-08,Weights,South,Recreational,8,408.29,0.19,2645.72
+2024-09-06,Weights,East,Recreational,9,53.83,0.22,377.89
+2024-10-01,Tennis Rackets,West,Recreational,7,527.36,0.11,3285.45
+2024-07-30,Weights,East,Recreational,19,15.47,0.26,217.51
+2024-09-05,Weights,West,Recreational,20,44.58,0.01,882.68
+2024-06-27,Football,South,Recreational,4,822.17,0.25,2466.51
+2024-08-04,Football,South,Recreational,3,712.87,0.11,1903.36
+2024-03-27,Weights,South,Recreational,18,191.76,0.25,2588.76
+2024-12-07,Football,East,Athlete,20,118.08,0.2,1889.28
+2024-01-28,Weights,West,Recreational,10,897.61,0.15,7629.68
+2024-07-30,Football,East,Recreational,16,761.46,0.25,9137.52
+2024-07-21,Weights,West,Recreational,13,348.39,0.12,3985.58
+2024-09-11,Football,West,Recreational,4,896.13,0.09,3261.91
+2024-01-31,Weights,North,Athlete,4,301.28,0.08,1108.71
+2024-12-27,Bikes,South,Recreational,5,398.86,0.18,1635.33
+2024-10-27,Tennis Rackets,East,Recreational,17,218.05,0.2,2965.48
+2024-05-13,Bikes,West,Athlete,18,474.28,0.24,6488.15
+2024-10-08,Football,North,Recreational,3,26.64,0.26,59.14
+2024-01-15,Tennis Rackets,South,Recreational,18,594.07,0.13,9303.14
+2024-10-18,Tennis Rackets,West,Athlete,6,641.22,0.19,3116.33
+2024-02-19,Weights,North,Athlete,14,127.64,0.24,1358.09
+2024-08-16,Tennis Rackets,West,Athlete,5,767.46,0.08,3530.32
+2024-02-06,Tennis Rackets,North,Recreational,2,295.14,0.2,472.22
+2024-07-09,Weights,South,Athlete,3,934.81,0.22,2187.46
+2024-06-29,Weights,East,Recreational,8,260.81,0.14,1794.37
+2024-10-04,Tennis Rackets,South,Recreational,14,893.77,0.18,10260.48
+2024-07-12,Bikes,North,Athlete,12,359.93,0.27,3152.99
+2024-10-01,Bikes,East,Recreational,16,404.14,0.09,5884.28
+2024-01-15,Football,South,Athlete,20,797.38,0.26,11801.22
+2024-03-12,Weights,East,Athlete,12,117.55,0.15,1199.01
+2024-12-27,Football,South,Athlete,18,857.92,0.14,13280.6
+2024-11-04,Tennis Rackets,North,Recreational,16,661.37,0.11,9417.91
+2024-09-21,Weights,West,Recreational,6,116.95,0.28,505.22
+2024-09-24,Bikes,South,Recreational,14,800.1,0.18,9185.15
+2024-09-22,Tennis Rackets,North,Athlete,10,56.45,0.3,395.15
+2024-03-24,Football,West,Athlete,14,948.0,0.1,11944.8
+2024-03-29,Tennis Rackets,East,Athlete,4,842.63,0.22,2629.01
+2024-10-14,Tennis Rackets,East,Recreational,7,663.38,0.18,3807.8
+2024-12-29,Bikes,East,Recreational,11,150.39,0.21,1306.89
